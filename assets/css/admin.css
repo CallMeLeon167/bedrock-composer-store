@@ -1,0 +1,19 @@
+.bedrock-btn {
+    background: #2271b1 !important;
+    color: #fff !important;
+    margin-top: 5px !important;
+}
+
+.bedrock-btn:hover,
+.bedrock-btn:focus {
+    background: #135e96 !important;
+    border-color: #135e96 !important;
+    color: #fff !important;
+}
+
+.bedrock-btn:disabled {
+    background: #646970 !important;
+    border-color: #646970 !important;
+    color: #fff !important;
+    cursor: not-allowed;
+}

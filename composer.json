@@ -1,0 +1,50 @@
+{
+    "name": "callmeleon167/bedrock-composer-store",
+    "description": "Kurze Beschreibung des Packages",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Leon Schmidt",
+            "email": "kontakt@callmeleon.de"
+        }
+    ],
+    "keywords": [
+        "bedrock",
+        "composer",
+        "roots",
+        "wordpress",
+        "wp",
+        "store"
+    ],
+    "homepage": "https://github.com/CallMeLeon167/bedrock-composer-store",
+    "readme": "README.md",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/CallMeLeon167/bedrock-composer-store"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/CallMeLeon167/bedrock-composer-store/issues"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    },
+    "require": {
+        "php": ">=8.1",
+        "composer/installers": "^2.0"
+    },
+    "autoload": {
+        "files": [
+            "bedrock-composer-store.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

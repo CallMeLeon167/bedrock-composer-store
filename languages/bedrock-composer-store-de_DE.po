@@ -1,0 +1,40 @@
+# German translation for Bedrock Composer Store
+
+msgid "Add to Composer"
+msgstr "Zu Composer hinzufügen"
+
+msgid "Adding..."
+msgstr "Wird hinzugefügt..."
+
+msgid "Already in Composer"
+msgstr "Bereits in Composer"
+
+msgid "Permission denied"
+msgstr "Zugriff verweigert"
+
+msgid "Installation failed"
+msgstr "Installation fehlgeschlagen"
+
+msgid "Invalid plugin data"
+msgstr "Ungültige Plugin-Daten"
+
+msgid "composer.json not found"
+msgstr "composer.json nicht gefunden"
+
+msgid "Plugin already in composer.json"
+msgstr "Plugin bereits in composer.json"
+
+msgid "Cannot read composer.json"
+msgstr "composer.json kann nicht gelesen werden"
+
+msgid "Invalid JSON in composer.json"
+msgstr "Ungültiges JSON in composer.json"
+
+msgid "Cannot encode JSON"
+msgstr "JSON kann nicht kodiert werden"
+
+msgid "Cannot write composer.json"
+msgstr "composer.json kann nicht überschrieben werden"
+
+msgid "Plugin '%s' v%s added to composer.json!"
+msgstr "Plugin '%s' v%s wurde zu composer.json hinzugefügt!"
